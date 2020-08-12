@@ -1,0 +1,5 @@
+{
+  "TypeScript.format.enable": false,
+  "TypeScript.validate.enable": false,
+  "javascript.validate.enable": false
+}
