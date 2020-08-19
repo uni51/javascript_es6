@@ -14,8 +14,8 @@ var user;
 //   }
 // }
 
-user = users.find(function (user) {
+matchUser = users.find(function (user) {
   return user.name == "次郎";
 });
 
-console.log(user);
+console.log(matchUser);
